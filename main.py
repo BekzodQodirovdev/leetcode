@@ -22,3 +22,7 @@ class Solution:
             l2 = l2.next if l2 is not None else None
 
         return dummy_head.next
+    
+
+
+# 100% 
